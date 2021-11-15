@@ -48,13 +48,11 @@ This project leverages python 3.7 with the following packages:
 ## Usage
 
 
-To use the ETF_Analyzer-with-voila
+To use the __ETF_Analyzer-with-voila__ 
 
- clone the repository, open it with Jupyterlab and run the 
-
-then run the following comand in the Terminal
+clone the repository, open it with Jupyterlab and then run the following command in the Terminal
         
-        voila etf_analyzer.ipynb
+            -- voila etf_analyzer.ipynb
 
 
 ## Contributors
